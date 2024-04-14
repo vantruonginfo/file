@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="13LNHvwvwP0t_-EO6gN7sOI2D8JwnT1At">
+	<name>dự án Hà Nội</name>
+	<description>khu dân cư + công viên</description>
+	<gx:CascadingStyle kml:id="__managed_style_2D40B95C0030130724B0">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_149DBFA69230130724B0">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0CF8B9A52330130724B0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_149DBFA69230130724B0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2D40B95C0030130724B0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="04AD4AD5C82FDC812D9E">
+		<name>bắc sông tô lịch</name>
+		<LookAt>
+			<longitude>105.8160998897732</longitude>
+			<latitude>21.9835765</latitude>
+			<altitude>9.133786172297322</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3348.9228673</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0CF8B9A52330130724B0</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						105.8143798805279,20.97992202479305,0 105.8153853687326,20.98134926826913,0 105.8145365673967,20.98192721071693,0 105.8136093218902,20.98025014025045,0 105.8143798805279,20.97992202479305,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0E81F62B832FDC81ABA2">
+		<name>bờ tây sông tô lịch</name>
+		<LookAt>
+			<longitude>105.8171296741708</longitude>
+			<latitude>20.98295734608233</latitude>
+			<altitude>11.36398164716647</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1784.843327363196</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0CF8B9A52330130724B0</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						105.8133373499714,20.98263478483311,0 105.8143540144718,20.98351266356963,0 105.8132844716636,20.98515661967221,0 105.8122991149935,20.98370440933869,0 105.8133373499714,20.98263478483311,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="00E0F57CF12FDC81CD2F">
+		<name>công viên</name>
+		<LookAt>
+			<longitude>105.8171296741708</longitude>
+			<latitude>20.98295734608233</latitude>
+			<altitude>11.36398164716647</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1784.843327363196</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0CF8B9A52330130724B0</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						105.8218091500614,20.98119726847091,0 105.8232930949443,20.98244342060688,0 105.8212685762474,20.98401932395613,0 105.8200089068297,20.98255270395532,0 105.8218091500614,20.98119726847091,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="029C26CD152FDD5C5BB0">
+		<name>Đa giác không có tiêu đề</name>
+		<LookAt>
+			<longitude>105.8166604242455</longitude>
+			<latitude>20.98420325072147</latitude>
+			<altitude>10.6527446818521</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99992908743453</gx:fovy>
+			<range>1786.126439263754</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0CF8B9A52330130724B0</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						105.8153378842277,20.98466287524905,0 105.8163375198652,20.98452529487807,0 105.8170277771485,20.98532138679152,0 105.8159117967232,20.98577250636292,0 105.8153378842277,20.98466287524905,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="05272ED42B2FE18A73C8">
+		<name>abc</name>
+		<LookAt>
+			<longitude>105.8202875341542</longitude>
+			<latitude>20.98317754504084</latitude>
+			<altitude>6.578066736767521</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>7092.426989239175</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0CF8B9A52330130724B0</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						105.8095381849069,20.98814904763799,0 105.811968990589,20.98860935713828,0 105.8120640381117,20.99124823138005,0 105.8081535333981,20.99156960579957,0 105.8095381849069,20.98814904763799,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0E539756222FE18BA07B">
+		<name>Đa giác không có tiêu đề</name>
+		<LookAt>
+			<longitude>105.8186716093208</longitude>
+			<latitude>20.98673590274291</latitude>
+			<altitude>7.751230029094451</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>6535.999209255679</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0CF8B9A52330130724B0</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						105.8147017301354,20.98765183485778,0 105.816663378482,20.9876946971267,0 105.8174851893318,20.98914301671621,0 105.8155227551937,20.98965448221267,0 105.8147017301354,20.98765183485778,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0AF247507C2FE295FE5A">
+		<name>Đa giác không có tiêu đề</name>
+		<LookAt>
+			<longitude>105.8071011204941</longitude>
+			<latitude>20.98795279851556</latitude>
+			<altitude>7.7030714394259</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>9267.800813462818</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0CF8B9A52330130724B0</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						105.8168747561969,20.99088340474597,0 105.8193315187739,20.99082215837519,0 105.8193317527654,20.99354091711103,0 105.8164196553958,20.99342024336937,0 105.8168747561969,20.99088340474597,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
